@@ -39,4 +39,4 @@ I hold a **Bachelor's Degree in Computer Engineering** from the **Centro Federal
 
 ## 📊 GitHub Stats:
 
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-92-srb&show_icons=true&theme=radical)
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-92-srb&show_icons=true&theme=blueberry)
